@@ -2847,8 +2847,7 @@ header.navbar-inverse {
 
 .mega-menu > .dropdown-menu > .active > a {
 	background-color: #b80023;
-	color: #000;
-	text-decoration: underline;
+	color: #ffc73c;
 }
 
 .mega-menu > .dropdown-menu > li > a:hover {
