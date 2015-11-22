@@ -1,0 +1,1910 @@
+# Translation of Enlightenment in Czech
+# This file is distributed under the same license as the Enlightenment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-21 15:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.4\n"
+"Project-Id-Version: Enlightenment\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+
+#. Theme Name of the plugin/theme
+msgid "Enlightenment"
+msgstr "Enlightenment"
+
+#. Description of the plugin/theme
+msgid "Our flagship multipurpose theme powered by Enlightenment Framework. With a clean, modern and responsive design backed by a powerful and flexible code base. Showcase any type of content anywhere. Create unlimited layouts. Customize all templates to your preference. Take WordPress as CMS to another level."
+msgstr ""
+
+#: inc/theme-options.php:437
+msgid "Link Hover Color"
+msgstr "Barva vybraného odkazu"
+
+#: inc/theme-options.php:457
+msgid "Site Title Hover Color"
+msgstr "Barva vybrané titulky webu"
+
+#: inc/theme-options.php:467
+msgid "Menu Items"
+msgstr "Položky menu"
+
+#: inc/theme-options.php:477
+msgid "Menu Items Hover Color"
+msgstr "Barva vybrané položky menu"
+
+#: inc/theme-options.php:497 inc/theme-options.php:668
+msgid "Post Titles"
+msgstr "Titulky příspěvku"
+
+#: inc/theme-options.php:507
+msgid "Teaser Post Titles"
+msgstr ""
+
+#: inc/theme-options.php:517
+msgid "Single Post Title"
+msgstr ""
+
+#: inc/theme-options.php:527
+msgid "Post Titles Hover Color"
+msgstr "Barva vybraného titulku příspěvku"
+
+#: inc/theme-options.php:547
+msgid "Post Meta Links Color"
+msgstr ""
+
+#: inc/theme-options.php:557
+msgid "Post Meta Links Hover Color"
+msgstr "Barva vybrané metainformace příspěvku"
+
+#: inc/theme-options.php:567
+msgid "Body Copy"
+msgstr ""
+
+#: inc/theme-options.php:577
+msgid "Excerpts"
+msgstr ""
+
+#: inc/theme-options.php:587 inc/theme-options.php:680
+msgid "Widget Titles"
+msgstr ""
+
+#: inc/theme-options.php:597
+msgid "Widget Content"
+msgstr "Obsah widgetu"
+
+#: inc/theme-options.php:617
+msgid "Widgets Link Hover Color"
+msgstr "Barva vybraného odkazu ve widgetu"
+
+#: inc/theme-options.php:627
+msgid "Footer Text"
+msgstr "Text zápatí"
+
+#: inc/theme-options.php:637
+msgid "Footer Link Color"
+msgstr "Barva odkazu v zápatí"
+
+#: inc/theme-options.php:647
+msgid "Footer Link Hover Color"
+msgstr "Barva vybraného odkazu v zápatí"
+
+#: inc/theme-options.php:694
+msgid "Page Header Tag on Archive Pages"
+msgstr ""
+
+#: inc/theme-options.php:705
+msgid "Page Header Tag on Single Posts"
+msgstr ""
+
+#: inc/theme-options.php:716
+msgid "Post Title Tag"
+msgstr ""
+
+#: inc/theme-options.php:727
+msgid "Teaser Post Title Tag"
+msgstr ""
+
+#: inc/theme-options.php:738
+msgid "Single Post Title Tag"
+msgstr ""
+
+#: inc/theme-options.php:749
+msgid "Comments Title Tag"
+msgstr ""
+
+#: inc/theme-options.php:760
+msgid "Widget Title Tag"
+msgstr ""
+
+#: inc/theme-options.php:427
+msgid "Link Color"
+msgstr "Barva odkazů"
+
+#: inc/theme-options.php:415
+msgid "Widgets"
+msgstr "Widgety"
+
+#: inc/theme-options.php:409
+msgid "Posts"
+msgstr "Příspěvky"
+
+#: inc/theme-options.php:354
+msgid "Select Default Page Design"
+msgstr "Vybrat základní vzhled stránky"
+
+#: inc/theme-options.php:376
+msgid "Enter your custom CSS Rules"
+msgstr "Vložte Vaše vlastní CSS pravidla"
+
+#: inc/theme-options.php:391
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/theme-options.php:252
+msgid "Open image links in a lightbox"
+msgstr "Otevřít obrázkové odkazy v lightboxu"
+
+#: inc/theme-options.php:257
+msgid "Lightbox Script"
+msgstr "Lightbox skript"
+
+#: inc/theme-options.php:264
+msgid "Colorbox"
+msgstr "Colorbox"
+
+#: inc/theme-options.php:265
+msgid "Fluidbox"
+msgstr "Fluidbox"
+
+#: inc/theme-options.php:266
+msgid "ImageLightbox.js"
+msgstr "ImageLightbox.js"
+
+#: inc/theme-options.php:272
+msgid "Posts Navigation Style"
+msgstr "Styl navigace příspěvků"
+
+#: inc/theme-options.php:279
+msgid "Static Links"
+msgstr "Statické odkazy"
+
+#: inc/theme-options.php:287
+msgid "Static Links Labels"
+msgstr "Označení statických odkazů"
+
+#: inc/theme-options.php:294
+msgid "Next Page / Previous Page"
+msgstr "Další stránka / Předchozí stránka"
+
+#: inc/theme-options.php:295
+msgid "Older Posts / Newer Posts"
+msgstr "Starší příspěvky / Novější příspěvky"
+
+#: inc/theme-options.php:296
+msgid "Earlier Posts / Later Posts"
+msgstr "Dřívější příspěvky / Pozdější příspěvky"
+
+#: inc/theme-options.php:297
+msgid "Numbered Pagination"
+msgstr "Číslované stránkování"
+
+#: inc/theme-options.php:309
+msgid "%year% = Current Year, %sitename% = Website Name"
+msgstr "%year% = Tento rok, %sitename% = Název webu"
+
+#: inc/theme-options.php:348
+msgid "Custom CSS"
+msgstr "Vlastní CSS stylování"
+
+#: inc/theme-options.php:8
+msgid "SEO"
+msgstr "Optimalizace pro vyhledávače"
+
+#: inc/theme-options.php:17 inc/theme-options.php:397
+msgid "Navbar"
+msgstr ""
+
+#: inc/theme-options.php:23 inc/theme-options.php:403 inc/theme-options.php:487
+#: inc/theme-options.php:662
+msgid "Page Header"
+msgstr "Patička stránky"
+
+#: inc/theme-options.php:29
+msgid "Post Thumbnails"
+msgstr "Miniatury příspěvku"
+
+#: inc/theme-options.php:35
+msgid "Entry Meta"
+msgstr ""
+
+#: inc/theme-options.php:41
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: inc/theme-options.php:59
+msgid "Navbar Position"
+msgstr "Pozice navigační lišty"
+
+#: inc/theme-options.php:73
+msgid "Navbar Background Color"
+msgstr "Barva pozadí navigační lišty"
+
+#: inc/theme-options.php:87
+msgid "Navbar Size"
+msgstr "Velikost navigační lišty"
+
+#: inc/theme-options.php:97
+msgid "Menu Item Descriptions are hidden in the small Navbar."
+msgstr "V malé navigační liště jsou popisky položek menu skryté."
+
+#: inc/theme-options.php:102
+msgid "Shrink Navbar"
+msgstr ""
+
+#: inc/theme-options.php:108
+msgid "Shrink Fixed Navbar when scrolling"
+msgstr ""
+
+#: inc/theme-options.php:113
+msgid "Blog Pages Header Text"
+msgstr ""
+
+#: inc/theme-options.php:123
+msgid "Blog Pages Description"
+msgstr ""
+
+#: inc/theme-options.php:133
+msgid "Thumbnail Header Image"
+msgstr "Miniatura obrázku v záhlaví"
+
+#: inc/theme-options.php:139
+msgid "Display post thumbnail as header image on single posts"
+msgstr ""
+
+#: inc/theme-options.php:144
+msgid "Crop Thumbnails"
+msgstr "Oříznout miniatury"
+
+#: inc/theme-options.php:150
+msgid "Hard crop post thumbnails"
+msgstr ""
+
+#: inc/theme-options.php:151
+msgid "After changing this option, it is recommended to recreate your thumbnails using a plugin like <a href=\"%s\">AJAX Thumbnail Rebuild</a>"
+msgstr ""
+
+#: inc/theme-options.php:156
+msgid "Thumbnails Size"
+msgstr "Velikost miniatur"
+
+#: inc/theme-options.php:199
+msgid "Edit Post Link"
+msgstr "Upravit odkaz příspěvku"
+
+#: inc/theme-options.php:209
+msgid "Portfolio Meta"
+msgstr "Metainformace portfolia"
+
+#: inc/theme-options.php:227
+msgid "Project Type"
+msgstr "Typ projektu"
+
+#: inc/theme-options.php:237
+msgid "Edit Project Link"
+msgstr "Upravit odkaz projektu"
+
+#: inc/theme-options.php:246
+msgid "Enable Lightbox"
+msgstr "Povolit Lightbox"
+
+#: functions.php:806
+msgid "Later Posts"
+msgstr "Pozdější příspěvky"
+
+#: functions.php:807
+msgid "Earlier Posts"
+msgstr "Dřívější příspěvky"
+
+#: functions.php:1042
+msgid "Built with <a href=\"%1$s\">Enlightenment Theme</a> by <a href=\"%2$s\" rel=\"designer\">One Designs</a> and <a href=\"%3$s\" rel=\"generator\">WordPress</a>"
+msgstr ""
+
+#: functions.php:1044
+msgid "Built with <a href=\"%1$s\">Enlightenment Theme</a> by <a href=\"%2$s\" rel=\"designer\">One Designs</a>"
+msgstr ""
+
+#: functions.php:1046
+msgid "Built with <a href=\"%1$s\">Enlightenment Theme</a> and <a href=\"%2$s\" rel=\"generator\">WordPress</a>"
+msgstr ""
+
+#: functions.php:1048
+msgid "Designed by <a href=\"%1$s\" rel=\"designer\">One Designs</a> with <a href=\"%2$s\" rel=\"generator\">WordPress</a>"
+msgstr ""
+
+#: functions.php:1050
+msgid "Built with <a href=\"%1$s\">Enlightenment Theme</a>"
+msgstr ""
+
+#: functions.php:1052
+msgid "Designed by <a href=\"%1$s\" rel=\"designer\">One Designs</a>"
+msgstr ""
+
+#: functions.php:1054
+msgid "Powered by <a href=\"%1$s\" rel=\"generator\">WordPress</a>"
+msgstr ""
+
+#: inc/page-design.php:8 inc/theme-options.php:342
+msgid "Page Design"
+msgstr "Vzhled stránky"
+
+#: inc/theme-options.php:6
+msgid "Design"
+msgstr "Návrh"
+
+#: inc/theme-options.php:7
+msgid "Typography"
+msgstr "Typografie"
+
+#: functions.php:804
+msgid "Older Posts"
+msgstr "Starší příspěvky"
+
+#: functions.php:803
+msgid "Newer Posts"
+msgstr "Novější příspěvky"
+
+#: functions.php:466
+msgid "Scroll To Content"
+msgstr "Přejít na obsah"
+
+#: functions.php:666
+msgid "More"
+msgstr "Další"
+
+#: core/functions/web-fonts.php:363
+msgid "The font \"%1$s\" does not support your selected subset <code>%2$s</code>."
+msgstr ""
+
+#: functions.php:26
+msgid "From The Blog"
+msgstr ""
+
+#: functions.php:49
+msgid "&copy; %1$s %2$s"
+msgstr ""
+
+#: functions.php:338
+msgid "Posted by %s"
+msgstr "Publikoval %s"
+
+#: functions.php:341
+msgid "Written by %s"
+msgstr "Napsal %s"
+
+#: functions.php:349
+msgid "On %s"
+msgstr "dne %s"
+
+#: functions.php:356 functions.php:370
+msgid "Filed under %s"
+msgstr "V rámci %s"
+
+#: functions.php:384
+msgid "Edit This"
+msgstr "Upravit"
+
+#: core/functions/template-editor.php:192 inc/theme-options.php:303
+msgid "Copyright Notice"
+msgstr "Oznámení o autorských právech"
+
+#: core/functions/template-editor.php:193 inc/theme-options.php:314
+msgid "Credit Links"
+msgstr ""
+
+#: core/functions/template-editor.php:194
+msgid "Custom Function"
+msgstr "Vlastní funkce"
+
+#: core/functions/template-editor.php:297
+msgid "Blog Post Teaser"
+msgstr ""
+
+#: core/functions/unlimited-sidebars.php:6
+msgid "Primary Sidebar"
+msgstr "Levý postranní panel"
+
+#: core/functions/template-editor.php:183
+msgid "Post Content"
+msgstr "Obsah Příspěveku"
+
+#: core/functions/template-editor.php:184
+msgid "Post Meta Utility"
+msgstr ""
+
+#: core/functions/template-editor.php:185
+msgid "Author Bio"
+msgstr "Autorova biografie"
+
+#: core/functions/template-editor.php:187
+msgid "Comments Title"
+msgstr "Titulek komentářů"
+
+#: core/functions/template-editor.php:188
+msgid "Comments Navigation"
+msgstr "Navigace komentářů"
+
+#: core/functions/template-editor.php:189
+msgid "Comments List"
+msgstr "Seznam komentářů"
+
+#: core/functions/template-editor.php:190
+msgid "Comment Form"
+msgstr "Formulář pro komentář"
+
+#: core/functions/template-editor.php:191 inc/theme-options.php:47
+msgid "Posts Navigation"
+msgstr "Navigace pro příspěvky"
+
+#: core/functions/template-editor.php:180 inc/theme-options.php:171
+#: inc/theme-options.php:537
+msgid "Post Meta"
+msgstr "Metainformace příspěvku"
+
+#: core/functions/template-editor.php:181
+msgid "Post Excerpt"
+msgstr "Příspěvek Ukázka"
+
+#: core/functions/template-editor.php:182
+msgid "Post Thumbnail"
+msgstr "Náhledový obrázek příspěvku"
+
+#: core/functions/template-editor.php:177
+msgid "Archive Location"
+msgstr "Umístění archivu"
+
+#: core/functions/template-editor.php:178
+msgid "The Loop"
+msgstr ""
+
+#: core/functions/template-editor.php:179
+msgid "Post Title"
+msgstr "Název příspěvku"
+
+#: core/functions/template-editor.php:154
+msgid "After Footer"
+msgstr "Po zápatí"
+
+#: core/functions/template-editor.php:175
+msgid "Site Branding"
+msgstr "Branding webu"
+
+#: core/functions/template-editor.php:176
+msgid "Navigation Menu"
+msgstr "Navigační menu"
+
+#: core/functions/template-editor.php:128
+msgid "After Comments List"
+msgstr "Za výpisem komentářů"
+
+#: core/functions/template-editor.php:136
+msgid "After Comments"
+msgstr "Po komentářích"
+
+#: core/functions/template-editor.php:146
+msgid "Before Footer"
+msgstr "Před zápatím"
+
+#: core/functions/template-editor.php:150 inc/theme-options.php:53
+#: inc/theme-options.php:421
+msgid "Footer"
+msgstr "Zápatí"
+
+#: core/functions/template-editor.php:94
+msgid "Before Entry Footer"
+msgstr ""
+
+#: core/functions/template-editor.php:98
+msgid "Entry Footer"
+msgstr ""
+
+#: core/functions/template-editor.php:102
+msgid "After Entry Footer"
+msgstr ""
+
+#: core/functions/template-editor.php:106
+msgid "After Entry"
+msgstr ""
+
+#: core/functions/template-editor.php:116
+msgid "Before Comments"
+msgstr "Před komentáři"
+
+#: core/functions/template-editor.php:120
+msgid "Before Comments List"
+msgstr "Před výpisem komentářů"
+
+#: core/functions/template-editor.php:124
+#: core/functions/template-editor.php:186
+#: core/functions/template-editor.php:254 inc/theme-options.php:194
+#: inc/theme-options.php:232 inc/theme-options.php:674
+msgid "Comments"
+msgstr "Komentáře"
+
+#: core/functions/template-editor.php:37
+msgid "Before Entries List"
+msgstr ""
+
+#: core/functions/template-editor.php:43
+msgid "After Entries List"
+msgstr ""
+
+#: core/functions/template-editor.php:47
+msgid "No Content Found"
+msgstr "Žádný obsah nenalezen"
+
+#: core/functions/template-editor.php:51
+msgid "After The Loop"
+msgstr ""
+
+#: core/functions/template-editor.php:55
+msgid "After Content"
+msgstr "Za obsahem"
+
+#: core/functions/template-editor.php:66
+msgid "Before Entry"
+msgstr ""
+
+#: core/functions/template-editor.php:70
+msgid "Before Entry Header"
+msgstr ""
+
+#: core/functions/template-editor.php:74
+msgid "Entry Header"
+msgstr ""
+
+#: core/functions/template-editor.php:78
+msgid "After Entry Header"
+msgstr ""
+
+#: core/functions/template-editor.php:82
+msgid "Before Entry Content"
+msgstr ""
+
+#: core/functions/template-editor.php:86
+msgid "Entry Content"
+msgstr ""
+
+#: core/functions/template-editor.php:90
+msgid "After Entry Content"
+msgstr ""
+
+#: core/functions/template-editor.php:33
+msgid "Content"
+msgstr "Obsah"
+
+#: core/functions/template-editor.php:18
+msgid "After Header"
+msgstr ""
+
+#: core/functions/template-editor.php:29
+msgid "Before Content"
+msgstr "Před obsahem"
+
+#: core/functions/post-formats-editor.php:7
+msgid "Gallery Shortcode"
+msgstr "Zkratka pro galerii"
+
+#: core/functions/post-formats-editor.php:8
+msgid "Video Shortcode"
+msgstr "Zkratka pro video"
+
+#: core/functions/post-formats-editor.php:9
+msgid "Audio Shortcode"
+msgstr "Zkratka pro audio"
+
+#: core/functions/post-formats-editor.php:10
+msgid "Post Image"
+msgstr "Obrázek příspěvku"
+
+#: core/functions/post-formats-editor.php:11
+msgid "Post Blockquote"
+msgstr "Poznámka příspěvku"
+
+#: core/functions/post-formats-editor.php:12
+msgid "Author Avatar"
+msgstr "Avatar autora"
+
+#: core/functions/template-editor.php:6
+msgid "Before Page"
+msgstr "Před stránkou"
+
+#: core/functions/template-editor.php:10
+msgid "Before Header"
+msgstr "Před záhlavím"
+
+#: core/functions/template-editor.php:14
+msgid "Header"
+msgstr "Záhlaví"
+
+#: core/functions/navigation.php:318
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: core/functions/navigation.php:242
+msgid "Read all Articles"
+msgstr "Číst všechny články"
+
+#: core/functions/navigation.php:317
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: core/functions/navigation.php:241
+msgid "Next Page"
+msgstr "Následující stránka"
+
+#: core/functions/menu-icons.php:40
+msgid "Star"
+msgstr "Hvězda"
+
+#: core/functions/menu-icons.php:41
+msgid "Time"
+msgstr "Čas"
+
+#: core/functions/navigation.php:10
+msgid "Toggle Navigation"
+msgstr ""
+
+#: core/functions/navigation.php:120
+msgid "Browsing %1$s%2$s"
+msgstr ""
+
+#: core/functions/navigation.php:122
+msgid "From the Blog"
+msgstr ""
+
+#: core/functions/navigation.php:126
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: core/functions/navigation.php:128
+msgid "%1$s %2$s%3$s"
+msgstr ""
+
+#: core/functions/navigation.php:157
+msgid "Content Not Found"
+msgstr "Obsah nenalezen"
+
+#: core/functions/navigation.php:240
+msgid "Previous Page"
+msgstr "Předchozí stránka"
+
+#: core/functions/menu-icons.php:31
+msgid "Eye"
+msgstr "Oko"
+
+#: core/functions/menu-icons.php:32
+msgid "Flash"
+msgstr "Blesk"
+
+#: core/functions/menu-icons.php:33
+msgid "Heart"
+msgstr "Srdce"
+
+#: core/functions/menu-icons.php:34
+msgid "Leaf"
+msgstr "List"
+
+#: core/functions/menu-icons.php:35
+msgid "Play"
+msgstr "Hrát"
+
+#: core/functions/menu-icons.php:36
+msgid "Plus"
+msgstr "Plus"
+
+#: core/functions/menu-icons.php:37
+msgid "Pin"
+msgstr "Připínáček"
+
+#: core/functions/menu-icons.php:38
+msgid "Refresh"
+msgstr "Obnovit"
+
+#: core/functions/menu-icons.php:30
+msgid "Upload"
+msgstr "Nahrát"
+
+#: core/functions/menu-icons.php:28
+msgid "Bookmark"
+msgstr "Záložka"
+
+#: core/functions/menu-icons.php:29
+msgid "Download"
+msgstr "Stažení"
+
+#: core/functions/menu-icons.php:27
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: core/functions/menu-icons.php:19
+msgid "Flag"
+msgstr "Vlajka"
+
+#: core/functions/menu-icons.php:20
+msgid "Folder"
+msgstr "Složka"
+
+#: core/functions/menu-icons.php:21
+msgid "Globe"
+msgstr "Glóbus"
+
+#: core/functions/menu-icons.php:22
+msgid "Map Marker"
+msgstr "Značka na mapě"
+
+#: core/functions/menu-icons.php:23
+msgid "Shopping Cart"
+msgstr "Nákupní vozík"
+
+#: core/functions/menu-icons.php:25
+msgid "User"
+msgstr "Uživatel"
+
+#: core/functions/menu-icons.php:16
+msgid "File"
+msgstr "Soubor"
+
+#: core/functions/menu-icons.php:17
+msgid "Grid"
+msgstr "Dlaždice (mřížka)"
+
+#: core/functions/menu-icons.php:14
+msgid "Cloud"
+msgstr "Mrak"
+
+#: core/functions/menu-icons.php:15
+msgid "Comment"
+msgstr "komentář"
+
+#: core/functions/menu-icons.php:13
+msgid "Video"
+msgstr "Video"
+
+#: core/functions/menu-icons.php:7
+msgid "Pencil"
+msgstr "Tužka"
+
+#: core/functions/menu-icons.php:8
+msgid "Paper Clip"
+msgstr "Sponka na papír"
+
+#: core/functions/menu-icons.php:10
+msgid "Picture"
+msgstr "Obrázek"
+
+#: core/functions/menu-icons.php:11
+msgid "Camera"
+msgstr "Kamera (fotoaparát)"
+
+#: core/functions/menu-icons.php:12
+msgid "Audio"
+msgstr "Audio"
+
+#: core/functions/menu-icons.php:6
+msgid "Home"
+msgstr "Úvodní stránka"
+
+#: core/functions/general.php:513
+msgid "Search this website"
+msgstr "Prohledat tento web"
+
+#: core/functions/general.php:587
+msgid "The Primary Sidebar"
+msgstr "Hlavní boční panel"
+
+#: core/functions/general.php:674
+msgid "Built with <a href=\"%1$s\" rel=\"designer\">Enlightenment Framework</a> and <a href=\"%2$s\" rel=\"generator\">WordPress</a>"
+msgstr "Postaveno s pomocí  <a href=\"%1$s\" rel=\"designer\">Enlightenment Frameworku</a> a <a href=\"%2$s\" rel=\"generator\">WordPressu</a>"
+
+#: core/functions/grid-loop.php:6
+msgid "1 Column"
+msgstr "1 sloupec"
+
+#: core/functions/grid-loop.php:15 core/functions/grid-loop.php:24
+#: core/functions/grid-loop.php:33
+msgid "%d Columns"
+msgstr "%d sloupců"
+
+#: core/functions/infinite-scroll.php:10
+msgid "Loading more posts &#8230;"
+msgstr "Nahrávám více příspěvků &#8230;"
+
+#: core/functions/infinite-scroll.php:11
+msgid "There are no more posts to display."
+msgstr "Nejsou žádné další příspěvky k zobrazení"
+
+#: core/functions/jetpack-portfolio.php:107
+msgid "Project Types Filter"
+msgstr ""
+
+#: core/functions/logo.php:18
+msgid "Please add the width parameter for your logo."
+msgstr "Prosím, zadejte parametr šířky pro své logo."
+
+#: core/functions/logo.php:22
+msgid "Please add the height parameter for your logo."
+msgstr "Prosím, zadejte parametr výšky pro své logo."
+
+#: core/functions/menu-icons.php:5
+msgid "None"
+msgstr "Žádné"
+
+#: core/functions/general.php:372
+msgid "Page %s"
+msgstr "Stránky %s"
+
+#: core/functions/custom-queries.php:708
+msgid "Total number of entries:"
+msgstr "Počet všech záznamů:"
+
+#: core/functions/custom-queries.php:718
+msgid "Number of leading entries:"
+msgstr ""
+
+#: core/functions/custom-queries.php:728
+msgid "Show Link to Archive"
+msgstr "Zobrazit odkaz na archiv"
+
+#: core/functions/custom-queries.php:737
+msgid "Link to Archive Label:"
+msgstr "Označení odkazu na archiv:"
+
+#: core/functions/general.php:36
+msgid "This function must be hooked to the 'current_theme_supports-{$theme_feature}' filter."
+msgstr ""
+
+#: core/functions/general.php:77
+msgid "Second parameter can only be 'data' or 'aria'"
+msgstr "Druhý parametr může být pouze 'data' nebo 'aria'"
+
+#: core/functions/general.php:132
+msgid "First parameter must be string or associative array."
+msgstr "První parametr musí být textový řetězec anebo asociativní pole."
+
+#: core/functions/general.php:184
+msgid "Primary Menu"
+msgstr "Základní navigační menu"
+
+#: core/functions/custom-queries.php:610
+msgid "Page:"
+msgstr "Stránka:"
+
+#: core/functions/custom-queries.php:633
+msgid "Select Pages:"
+msgstr "Vybrat stránky:"
+
+#: core/functions/custom-queries.php:645
+msgid "Choose Images"
+msgstr "Vybrat obrázky"
+
+#: core/functions/custom-queries.php:646
+msgid "Insert Images"
+msgstr "Vložit obrázky"
+
+#: core/functions/custom-queries.php:664
+msgid "Select Author:"
+msgstr "Vybrat autora:"
+
+#: core/functions/custom-queries.php:682
+msgid "Taxonomy:"
+msgstr "Taxonomie:"
+
+#: core/functions/custom-queries.php:525
+msgid "Carousel"
+msgstr "Carousel"
+
+#: core/functions/custom-queries.php:528
+msgid "Type:"
+msgstr "Typ:"
+
+#: core/functions/custom-queries.php:543
+msgid "Grid:"
+msgstr "Mřížka:"
+
+#: core/functions/custom-queries.php:559
+msgid "Query:"
+msgstr "Dotaz:"
+
+#: core/functions/custom-queries.php:574
+msgid "Post Type:"
+msgstr "Typ příspěvku:"
+
+#: core/functions/custom-queries.php:524
+msgid "Slider"
+msgstr "Posunovací položky"
+
+#: core/functions/custom-queries.php:523
+msgid "Gallery"
+msgstr "Galerie"
+
+#: core/functions/custom-queries.php:522
+msgid "List"
+msgstr "Seznam"
+
+#: core/functions/custom-queries.php:512
+msgid "Tagline:"
+msgstr ""
+
+#: core/functions/custom-queries.php:86 core/functions/custom-queries.php:592
+msgid "Post:"
+msgstr "Příspěvek:"
+
+#: core/functions/custom-queries.php:106 core/functions/custom-queries.php:697
+msgid "Term:"
+msgstr ""
+
+#: core/functions/custom-queries.php:374
+msgid "Custom Query"
+msgstr ""
+
+#: core/functions/custom-queries.php:375
+msgid "Display a custom query of content"
+msgstr ""
+
+#: core/functions/custom-queries.php:495
+msgid "See all posts &rarr;"
+msgstr "Zobraz všechny příspěvky &rarr;"
+
+#: core/functions/custom-queries.php:502
+msgid "Title:"
+msgstr "Název:"
+
+#: core/functions/custom-queries.php:41
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: core/functions/custom-layouts.php:55
+msgid "An array of supported layouts needs to be specified as second parameter."
+msgstr ""
+
+#: core/functions/custom-layouts.php:57
+msgid "At least two layouts need to be supported to use this feature."
+msgstr ""
+
+#: core/functions/custom-layouts.php:62
+msgid "The layout '%1$s' does not exist. You can create it using the <a href=\"%2$s\">enlightenment_register_layout()</a> function."
+msgstr ""
+
+#: core/functions/custom-queries.php:13
+msgid "Sticky Posts"
+msgstr "Důležité snímky"
+
+#: core/functions/custom-queries.php:17
+msgid "Post Type Archive"
+msgstr ""
+
+#: core/functions/custom-queries.php:21
+msgid "Single Post Type"
+msgstr ""
+
+#: core/functions/custom-queries.php:25
+msgid "Single Page"
+msgstr "Samotná stránka"
+
+#: core/functions/custom-queries.php:29
+msgid "Multiple Pages"
+msgstr "Více stránek"
+
+#: core/functions/custom-queries.php:33
+msgid "Image Gallery"
+msgstr "Obrázková galerie"
+
+#: core/functions/custom-queries.php:37
+msgid "Author Archive"
+msgstr "Archiv autora"
+
+#: core/functions/custom-layouts.php:6
+msgid "Content / Sidebar"
+msgstr "Obsah/Postranní panel"
+
+#: core/functions/custom-layouts.php:14
+msgid "Sidebar / Content"
+msgstr "Postranní panel/Obsah"
+
+#: core/functions/custom-layouts.php:22
+msgid "Full Width"
+msgstr "Plná délka"
+
+#: core/functions/content.php:542
+msgid "Posted by %1$s on %2$s in %3$s with %5$s"
+msgstr "Publikováno autorem %1$s dne %2$s v %3$s s %5$s"
+
+#: core/functions/content.php:669
+msgid "Keep reading &rarr;"
+msgstr "Pokračovat ve čtení &rarr;"
+
+#: core/functions/content.php:706
+msgid "Written by"
+msgstr "Sepsáno autorem"
+
+#: core/functions/content.php:515 core/functions/menu-icons.php:9
+msgid "Edit"
+msgstr "Upravit"
+
+#: core/functions/content.php:479
+msgid "no comments"
+msgstr "Žádné komentáře"
+
+#: core/functions/content.php:448
+msgid "Original image: %s pixels"
+msgstr "Originální obrázek: %s pixelů"
+
+#: core/functions/content.php:454
+msgid "Link to full-size image"
+msgstr "Odkaz na původní velikost obrázku"
+
+#: core/functions/content.php:231 core/functions/content.php:730
+msgid "Posts by %s"
+msgstr "Příspěvky od %s"
+
+#: core/functions/comments.php:385
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: core/functions/comments.php:372
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentář"
+
+#: core/functions/comments.php:351
+msgid "Website"
+msgstr "Webová stránka"
+
+#: core/functions/comments.php:347
+msgid "Email"
+msgstr "Email"
+
+#: core/functions/comments.php:343
+msgid "Name"
+msgstr "Jméno"
+
+#: core/functions/comments.php:275
+msgid "%1$s at %2$s"
+msgstr "%1$s (%2$s)"
+
+#: core/functions/comments.php:225
+msgid "says:"
+msgstr "říká:"
+
+#: core/functions/comments.php:247
+msgid "Your comment is awaiting moderation."
+msgstr "Komentář čeká na schválení."
+
+#: core/functions/comments.php:44 core/functions/content.php:481
+msgid "% Comments"
+msgstr "Komentáře: %"
+
+#: core/functions/comments.php:43 core/functions/content.php:480
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: core/functions/comments.php:41
+msgid "%1$s for &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: core/functions/comments.php:42 core/functions/template-editor.php:132
+#: functions.php:377
+msgid "No Comments"
+msgstr "Žádné komentáře"
+
+#: core/functions/comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tento příspěvek je chráněn heslem. Abyste si mohli prohlížet příslušné komentáře, musíte nejdříve zadat heslo."
+
+#: core/functions/bootstrap.php:310
+msgid "Pages: "
+msgstr "Stránky:"
+
+#: core/functions/bootstrap.php:239 core/functions/bootstrap.php:240
+#: core/functions/navigation.php:147
+msgid "Archives for"
+msgstr "Archivy pro"
+
+#: core/functions/bootstrap.php:239 core/functions/bootstrap.php:240
+msgid "Archive"
+msgstr "Archiv"
+
+#: core/functions/bootstrap.php:231
+msgid "%2$s%3$s %1$s"
+msgstr "%2$s%3$s %1$s"
+
+#: core/functions/bootstrap.php:238 core/functions/navigation.php:145
+msgid "Search Results for"
+msgstr "Výsledky vyhledávání pro"
+
+#: core/functions/bootstrap.php:238
+msgid "Search Results"
+msgstr "Výsledky vyhledávání"
+
+#: core/functions/ajax-navigation.php:13
+msgid "Load more posts"
+msgstr "Nahrát více příspěvků"
+
+#: core/functions/ajax-navigation.php:14
+msgid "Loading&#8230;"
+msgstr "Načítání&#8230;"
+
+#: core/functions/accessibility.php:73
+msgid "Search for:"
+msgstr "Hledat:"
+
+#: core/functions/accessibility.php:27
+msgid "Menu"
+msgstr "Menu"
+
+#: core/admin/unlimited-sidebars.php:157
+msgid "Sidebar Title Color"
+msgstr "Barva titulky bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:164
+msgid "For sidebars with a background image it is recommended to set the title color to white."
+msgstr "Je doporučeno pro boční panely s obrázkem na pozadí, nastavit barvu titulku na bílou."
+
+#: core/admin/unlimited-sidebars.php:169
+msgid "Sidebar Text Color"
+msgstr "Barva textu bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:176
+msgid "For sidebars with a background image it is recommended to set the text color to white."
+msgstr ""
+
+#: core/admin/unlimited-sidebars.php:181
+msgid "Widgets Background Color"
+msgstr "Barva pozadí widgetu"
+
+#: core/admin/unlimited-sidebars.php:194
+msgid "Widgets Headings Color"
+msgstr "Barva záhlaví ve widgetu"
+
+#: core/admin/unlimited-sidebars.php:205
+msgid "Widgets Text Color"
+msgstr "Barva textu ve widgetu"
+
+#: core/admin/unlimited-sidebars.php:216 inc/theme-options.php:607
+msgid "Widgets Link Color"
+msgstr "Barva odkazu ve widgetu"
+
+#: core/admin/unlimited-sidebars.php:230
+msgid "Sidebar Locations"
+msgstr "Umístění bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:292 core/admin/unlimited-sidebars.php:324
+msgid "Delete Sidebar"
+msgstr "Smazat boční panel"
+
+#: core/admin/unlimited-sidebars.php:318
+msgid "Edit Sidebar"
+msgstr "Upravit boční panel"
+
+#: core/admin/unlimited-sidebars.php:436
+msgid "[None]"
+msgstr "[Nic]"
+
+#: core/admin/unlimited-sidebars.php:568
+msgid "Please save this post as Draft to use Unlimited Sidebars."
+msgstr ""
+
+#: core/admin/unlimited-sidebars.php:576
+msgid "Use default sidebar locations for %1$s"
+msgstr ""
+
+#: core/admin/web-fonts.php:6
+msgid "Web Fonts"
+msgstr "Webová písma"
+
+#: core/admin/web-fonts.php:16
+msgid "Subsets"
+msgstr ""
+
+#: core/admin/web-fonts.php:22
+msgid "Google Web Fonts Directory"
+msgstr "Adresář webových písem Googlu"
+
+#: core/admin/web-fonts.php:29
+msgid "Select your font subsets"
+msgstr ""
+
+#: core/admin/web-fonts.php:40
+msgid "Latin"
+msgstr "Latinka"
+
+#: core/admin/web-fonts.php:46
+msgid "Latin Extended"
+msgstr "Latinka - rozšířená"
+
+#: core/admin/web-fonts.php:52
+msgid "Greek"
+msgstr "Řečtina"
+
+#: core/admin/web-fonts.php:58
+msgid "Greek Extended"
+msgstr "Řečtina - rozšířená"
+
+#: core/admin/web-fonts.php:64
+msgid "Cyrillic"
+msgstr "Cyrilice"
+
+#: core/admin/web-fonts.php:70
+msgid "Cyrillic Extended"
+msgstr "Cyrilice - rozšířená"
+
+#: core/admin/web-fonts.php:76
+msgid "Devangari"
+msgstr "Dévanágarí"
+
+#: core/admin/web-fonts.php:82
+msgid "Khmer"
+msgstr "Khmérština"
+
+#: core/admin/web-fonts.php:88
+msgid "Telugu"
+msgstr "Telugština"
+
+#: core/admin/web-fonts.php:94
+msgid "Vietnamese"
+msgstr "Vietnamština"
+
+#: core/admin/web-fonts.php:101
+msgid "Google Developer API Key"
+msgstr ""
+
+#: core/admin/web-fonts.php:108
+msgid "Learn how to obtain an API key <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: core/admin/web-fonts.php:113
+msgid "Filter by Subsets"
+msgstr ""
+
+#: core/admin/web-fonts.php:125
+msgid "Live Preview Fonts"
+msgstr ""
+
+#: core/admin/web-fonts.php:133
+msgid "Enabling this option will severely impact your browser's performance."
+msgstr ""
+
+#: core/admin/web-fonts.php:138
+msgid "Sort by"
+msgstr "Seřadit podle"
+
+#: core/admin/web-fonts.php:156
+msgid "Fonts in Google Directory"
+msgstr "Písma v Google adresáři"
+
+#: core/admin/web-fonts.php:202
+msgid "Obtain a Google Developer API key to see all fonts in the Google Directory."
+msgstr ""
+
+#: core/admin/web-fonts.php:204
+msgid "Please wait while the fonts list is being populated."
+msgstr ""
+
+#: core/functions/accessibility.php:9
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: core/admin/unlimited-sidebars.php:6 core/admin/unlimited-sidebars.php:563
+msgid "Sidebars"
+msgstr "Boční panely"
+
+#: core/admin/unlimited-sidebars.php:23
+msgid "Edit Dynamic Sidebars"
+msgstr "Upravit dynamické boční panely"
+
+#: core/admin/unlimited-sidebars.php:63
+msgid "Edit Dynamic Sidebar"
+msgstr "Upravit dynamický boční panel"
+
+#: core/admin/unlimited-sidebars.php:63
+msgid "Add Dynamic Sidebar"
+msgstr "Přidat dynamický boční panel"
+
+#: core/admin/unlimited-sidebars.php:69
+msgid "Sidebar Title"
+msgstr "Titulek bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:80
+msgid "Display Sidebar Title"
+msgstr "Zobrazit titulek bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:86
+msgid "Show Title in Sidebar"
+msgstr "Zobrazit titulek v bočním panelu"
+
+#: core/admin/unlimited-sidebars.php:92
+msgid "Sidebar Description"
+msgstr "Popis bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:103
+msgid "Display Sidebar Description"
+msgstr "Zobrazit popis bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:109
+msgid "Show Description in Sidebar"
+msgstr "Zobrazit popis v bočním panelu"
+
+#: core/admin/unlimited-sidebars.php:117
+msgid "Sidebar Grid"
+msgstr "Mřížka bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:131
+msgid "Contain Widgets"
+msgstr ""
+
+#: core/admin/unlimited-sidebars.php:137
+msgid "Center widgets in a fixed-width wrapper"
+msgstr ""
+
+#: core/admin/unlimited-sidebars.php:145
+msgid "Sidebar Background"
+msgstr "Pozadí bočního panelu"
+
+#: core/admin/unlimited-sidebars.php:152 core/admin/unlimited-sidebars.php:189
+msgid "When Transparent is checked, the value passed to background color will be ignored."
+msgstr ""
+
+#: core/admin/template-editor.php:318
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Provedené změny budou ztraceny, pokud opustíte tuto stránku."
+
+#: core/admin/settings-api.php:649
+msgid "Please specify a name attribute for your image radio buttons."
+msgstr ""
+
+#: core/admin/settings-api.php:654
+msgid "Please specify an image for your image radio button."
+msgstr ""
+
+#: core/admin/template-editor.php:35
+msgid "Templates"
+msgstr "Soubory šablony"
+
+#: core/admin/settings-api.php:635
+msgid "Bold Italic"
+msgstr "Tučná kurzíva"
+
+#: core/admin/settings-api.php:631
+msgid "Medium Italic"
+msgstr "Střední kurzíva"
+
+#: core/admin/settings-api.php:632
+msgid "Semi-Bold"
+msgstr ""
+
+#: core/admin/settings-api.php:633
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: core/admin/settings-api.php:634
+msgid "Bold"
+msgstr "Tučně"
+
+#: core/admin/settings-api.php:630
+msgid "Medium"
+msgstr "Střední velikost"
+
+#: core/admin/settings-api.php:627
+msgid "Light Italic"
+msgstr "Tenká kurzíva"
+
+#: core/admin/settings-api.php:628
+msgid "Regular"
+msgstr "Normální"
+
+#: core/admin/settings-api.php:629
+msgid "Italic"
+msgstr "Kurzíva"
+
+#: core/admin/settings-api.php:542
+msgid "Parallax"
+msgstr ""
+
+#: core/admin/settings-api.php:573
+msgid "Please specify a name attribute for your font options."
+msgstr ""
+
+#: core/admin/settings-api.php:626
+msgid "Light"
+msgstr "Světlá"
+
+#: core/admin/settings-api.php:541
+msgid "Fixed"
+msgstr "Pozadí zůstává upevněno pořád na stejném místě"
+
+#: core/admin/settings-api.php:516
+msgid "Tiled"
+msgstr ""
+
+#: core/admin/settings-api.php:517
+msgid "Tiled Horizontally"
+msgstr ""
+
+#: core/admin/settings-api.php:518
+msgid "Tiled Vertically"
+msgstr ""
+
+#: core/admin/settings-api.php:528
+msgid "Scaled"
+msgstr ""
+
+#: core/admin/settings-api.php:529
+msgid "Cover"
+msgstr "překrýt"
+
+#: core/admin/settings-api.php:530
+msgid "Contained"
+msgstr "Hlavní prostor"
+
+#: core/admin/settings-api.php:540
+msgid "Scroll"
+msgstr "Pozadí se automaticky posunuje"
+
+#: core/admin/settings-api.php:501
+msgid "Left Center"
+msgstr "Vlevo uprostřed"
+
+#: core/admin/settings-api.php:502
+msgid "Left Bottom"
+msgstr "Vlevo dole"
+
+#: core/admin/settings-api.php:503
+msgid "Right Top"
+msgstr "Vpravo nahoře"
+
+#: core/admin/settings-api.php:504
+msgid "Right Center"
+msgstr "Vpravo uprostřed"
+
+#: core/admin/settings-api.php:505
+msgid "Right Bottom"
+msgstr "Vpravo dole"
+
+#: core/admin/settings-api.php:515
+msgid "No Repeat"
+msgstr "Použít obrázek jenom jednou"
+
+#: core/admin/settings-api.php:498
+msgid "Center Top"
+msgstr "Uprostřed nahoře"
+
+#: core/admin/settings-api.php:499
+msgid "Center Bottom"
+msgstr "Uprostřed dole"
+
+#: core/admin/settings-api.php:500
+msgid "Left Top"
+msgstr "Vlevo nahoře"
+
+#: core/admin/settings-api.php:497
+msgid "Center"
+msgstr "Na střed"
+
+#: core/admin/settings-api.php:485
+msgid "Use Image"
+msgstr "Použít obrázek"
+
+#: core/admin/settings-api.php:486
+msgid "Remove Image"
+msgstr "Odstranit obrázek"
+
+#: core/admin/settings-api.php:484
+msgid "Select Image"
+msgstr "Zvolit obrázek"
+
+#: core/admin/settings-api.php:319
+msgid "Remove Media"
+msgstr "Odstranit multimédia"
+
+#: core/admin/settings-api.php:328
+msgid "Please specify a name attribute for your upload field."
+msgstr ""
+
+#: core/admin/settings-api.php:390
+msgid "Please specify a name attribute for your color picker."
+msgstr ""
+
+#: core/admin/settings-api.php:421
+msgid "Opacity:"
+msgstr ""
+
+#: core/admin/settings-api.php:432
+msgid "Transparent"
+msgstr "Průhledné"
+
+#: core/admin/settings-api.php:460
+msgid "Please specify a name attribute for your background options."
+msgstr ""
+
+#: core/admin/settings-api.php:483
+msgid "Choose Image"
+msgstr "Vybrat obrázek"
+
+#: core/admin/settings-api.php:318 core/functions/custom-queries.php:647
+msgid "Select"
+msgstr "Vybrat"
+
+#: core/admin/settings-api.php:118
+msgid "Please specify a label for your checkbox."
+msgstr ""
+
+#: core/admin/settings-api.php:177 core/admin/settings-api.php:230
+msgid "Please specify a name attribute for your radio buttons."
+msgstr ""
+
+#: core/admin/settings-api.php:183
+msgid "Please specify a label for your radio button."
+msgstr ""
+
+#: core/admin/settings-api.php:187
+msgid "Please specify a value attribute for your radio button."
+msgstr ""
+
+#: core/admin/settings-api.php:282
+msgid "Please specify a name attribute for your textarea."
+msgstr ""
+
+#: core/admin/settings-api.php:316
+msgid "Choose Media"
+msgstr "Výběr media"
+
+#: core/admin/settings-api.php:317
+msgid "Insert Media"
+msgstr "Vložit soubor"
+
+#: core/admin/post-formats-editor.php:69
+msgid "Select Post Format"
+msgstr ""
+
+#: core/admin/post-formats-editor.php:75
+msgid "Select Post Format to Edit"
+msgstr ""
+
+#: core/admin/post-formats-editor.php:86 core/admin/template-editor.php:170
+msgid "Template Hooks"
+msgstr ""
+
+#: core/admin/settings-api.php:24
+msgid "Please specify a name attribute for your hidden input."
+msgstr ""
+
+#: core/admin/settings-api.php:70
+msgid "Please specify a name attribute for your text field."
+msgstr ""
+
+#: core/admin/settings-api.php:114
+msgid "Please specify a name attribute for your checkbox."
+msgstr ""
+
+#: core/admin/page-builder.php:22
+msgid "Please save this post as Draft to use the Page Builder."
+msgstr ""
+
+#: core/admin/page-builder.php:30
+msgid "Use default template hooks for %1$s"
+msgstr ""
+
+#: core/admin/post-formats-editor.php:35 core/functions/navigation.php:141
+msgid "Post Formats"
+msgstr "Formáty příspěvků"
+
+#: core/admin/page-builder.php:4
+msgid "This Feature requires Theme Support for Template Editor."
+msgstr ""
+
+#: core/admin/page-builder.php:7
+msgid "This Feature requires Theme Support for Theme Settings."
+msgstr ""
+
+#: core/admin/page-builder.php:14
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: core/admin/menu-icons-walker.php:192
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: core/admin/menu-icons-walker.php:191 core/functions/menu-icons.php:39
+msgid "Remove"
+msgstr "Odstranit"
+
+#: core/admin/menu-icons-walker.php:178
+msgid "Original: %s"
+msgstr "Původní odkaz: %s"
+
+#: core/admin/menu-icons-walker.php:171
+msgid "To the top"
+msgstr "Na začátek"
+
+#: core/admin/menu-icons-walker.php:167
+msgid "Up one"
+msgstr "Nahoru"
+
+#: core/admin/menu-icons-walker.php:168
+msgid "Down one"
+msgstr "Dolů"
+
+#: core/admin/menu-icons-walker.php:143
+msgid "Menu Item Icon"
+msgstr ""
+
+#: core/admin/menu-icons-walker.php:166
+msgid "Move"
+msgstr "Posunout"
+
+#: core/admin/menu-icons-walker.php:138
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Popis bude zobrazen přímo v menu pouze v případě, že to aktuálně používaná šablona podporuje."
+
+#: core/admin/menu-icons-walker.php:136
+msgid "Description"
+msgstr "Popis"
+
+#: core/admin/menu-icons-walker.php:130
+msgid "Link Relationship (XFN)"
+msgstr "Vztah k odkazu (XFN)"
+
+#: core/admin/menu-icons-walker.php:124
+msgid "CSS Classes (optional)"
+msgstr "CSS třídy (volitelné)"
+
+#: core/admin/menu-icons-walker.php:119
+msgid "Open link in a new window/tab"
+msgstr "Otevřít odkaz v novém okně/záložce"
+
+#: core/admin/menu-icons-walker.php:112
+msgid "Title Attribute"
+msgstr "Atribut title"
+
+#: core/admin/menu-icons-walker.php:106
+msgid "Navigation Label"
+msgstr "Text odkazu"
+
+#: core/admin/menu-icons-walker.php:99
+msgid "URL"
+msgstr "URL"
+
+#: core/admin/menu-icons-walker.php:88 core/admin/menu-icons-walker.php:90
+msgid "Edit Menu Item"
+msgstr "Upravit položku menu"
+
+#: core/admin/menu-icons-walker.php:86
+msgid "Move down"
+msgstr "Posunout dolů"
+
+#: core/admin/menu-icons-walker.php:73
+msgid "Move up"
+msgstr "Posunout nahoru"
+
+#: core/admin/menu-icons-walker.php:58
+msgid "sub item"
+msgstr "podřazená položka"
+
+#. translators: %s: title of menu item in draft status
+#: core/admin/menu-icons-walker.php:45
+msgid "%s (Pending)"
+msgstr "%s (Nepublikováno)"
+
+#: core/admin/logo.php:80
+msgid "Automatically insert Logo in Site Title"
+msgstr "Automaticky vkládej logo do titulku webu"
+
+#: core/admin/logo.php:85
+msgid "Hide Site Title Text"
+msgstr "Schovat titulní text webu"
+
+#: core/admin/logo.php:143
+msgid "pixels"
+msgstr "px"
+
+#. translators: %s: title of menu item which is invalid
+#: core/admin/menu-icons-walker.php:41
+msgid "%s (Invalid)"
+msgstr "%s (Neplatné)"
+
+#: core/admin/logo.php:47
+msgid "Dimmensions"
+msgstr "Rozměry"
+
+#: core/admin/logo.php:60
+msgid "Crop Flag"
+msgstr ""
+
+#: core/admin/logo.php:66
+msgid "Crop Logo Image to fixed Dimmensions"
+msgstr "Oříznout logo na pevné rozměry"
+
+#: core/admin/logo.php:72 inc/theme-options.php:447
+msgid "Site Title"
+msgstr "Název webu"
+
+#: core/admin/logo.php:22
+msgid "Upload Logo"
+msgstr "Nahrát logo"
+
+#: core/admin/logo.php:31 core/admin/logo.php:97
+msgid "Choose Logo"
+msgstr "Vyber logo"
+
+#: core/admin/logo.php:32 core/admin/logo.php:98
+msgid "Select Logo"
+msgstr "Vyber logo"
+
+#: core/admin/logo.php:33 core/admin/logo.php:99
+msgid "Use as Logo"
+msgstr "Použít jako logo"
+
+#: core/admin/logo.php:34 core/admin/logo.php:100
+msgid "Remove Logo"
+msgstr "Odstranit logo"
+
+#: core/admin/logo.php:41 core/functions/menu-icons.php:18
+msgid "Settings"
+msgstr "Nastavení"
+
+#: core/admin/logo.php:15
+msgid "Logo Image"
+msgstr "Obrázek loga"
+
+#: core/admin/logo.php:6
+msgid "Logo"
+msgstr "Logo"
+
+#: core/admin/init.php:16
+msgid "Reset Defaults"
+msgstr "Resetovat do továrního nastavení"
+
+#: core/admin/init.php:18
+msgid "General"
+msgstr "Obecné"
+
+#: core/admin/init.php:14
+msgid "Theme settings updated successfully."
+msgstr "Nastavení šablony úspěšně upraveno."
+
+#: core/admin/init.php:15
+msgid "Save Settings"
+msgstr "Ulož nastavení"
+
+#: core/admin/custom-layouts.php:179
+msgid "Use default layout for %1$s"
+msgstr "Použij základní rozložení pro %1$s"
+
+#: core/admin/grid-loop.php:6 core/admin/grid-loop.php:32
+msgid "Grid Loop"
+msgstr ""
+
+#: core/admin/grid-loop.php:38
+msgid "Select Grid"
+msgstr "Vybrat mřížku"
+
+#: core/admin/grid-loop.php:54
+msgid "Lead Posts"
+msgstr ""
+
+#: core/admin/init.php:8 core/admin/init.php:9
+msgid "Theme Options"
+msgstr "Nastavení šablony"
+
+#: core/admin/custom-layouts.php:80 core/admin/grid-loop.php:94
+#: core/functions/template-editor.php:263
+#: core/functions/unlimited-sidebars.php:30
+msgid "%1$s Archive"
+msgstr "%1$s Archiv"
+
+#: core/admin/custom-layouts.php:88 core/admin/grid-loop.php:98
+#: core/functions/custom-queries.php:65 core/functions/custom-queries.php:678
+#: core/functions/unlimited-sidebars.php:37
+msgid "Post Format"
+msgstr "Formát"
+
+#: core/admin/custom-layouts.php:172
+msgid "Custom Layout"
+msgstr "Vlastní rozložení"
+
+#: core/admin/custom-layouts.php:76 core/admin/grid-loop.php:90
+#: core/functions/menu-icons.php:24 core/functions/template-editor.php:249
+msgid "Tag"
+msgstr "Štítek"
+
+#: core/admin/custom-layouts.php:75 core/admin/grid-loop.php:89
+#: core/functions/template-editor.php:244 inc/theme-options.php:189
+msgid "Category"
+msgstr "Rubrika"
+
+#: core/admin/custom-layouts.php:74 core/admin/grid-loop.php:88
+#: core/functions/template-editor.php:239
+#: core/functions/unlimited-sidebars.php:26 inc/theme-options.php:184
+#: inc/theme-options.php:222
+msgid "Date"
+msgstr "Datum"
+
+#: core/admin/custom-layouts.php:73 core/admin/grid-loop.php:87
+#: core/functions/navigation.php:139 core/functions/template-editor.php:234
+#: core/functions/unlimited-sidebars.php:25 inc/theme-options.php:179
+#: inc/theme-options.php:217
+msgid "Author"
+msgstr "Autor"
+
+#: core/admin/custom-layouts.php:72 core/functions/template-editor.php:229
+#: core/functions/unlimited-sidebars.php:24
+msgid "Page"
+msgstr "Stránka:"
+
+#: core/admin/custom-layouts.php:71 core/functions/template-editor.php:224
+#: core/functions/unlimited-sidebars.php:23
+msgid "Post"
+msgstr "Příspěvek"
+
+#: core/admin/custom-layouts.php:70 core/admin/grid-loop.php:86
+#: core/functions/template-editor.php:219
+#: core/functions/unlimited-sidebars.php:22
+msgid "Blog"
+msgstr "Novinky"
+
+#: core/admin/custom-layouts.php:69 core/admin/grid-loop.php:85
+#: core/functions/general.php:517 core/functions/menu-icons.php:26
+#: core/functions/template-editor.php:214
+#: core/functions/unlimited-sidebars.php:21
+msgid "Search"
+msgstr "Hledat"
+
+#: core/admin/custom-layouts.php:68 core/functions/template-editor.php:209
+#: core/functions/unlimited-sidebars.php:20
+msgid "404"
+msgstr "404"
+
+#: core/admin/custom-layouts.php:38
+msgid "Select Layout"
+msgstr "Vyberte rozložení"
+
+#: core/admin/custom-layouts.php:67 core/admin/grid-loop.php:84
+#: core/functions/jetpack-portfolio.php:56
+msgid "All"
+msgstr "Vše"
+
+#: core/admin/custom-layouts.php:6
+msgid "Layouts"
+msgstr "Grafická rozvržení"
+
+#: core/admin/custom-layouts.php:15 core/admin/grid-loop.php:15
+#: core/admin/template-editor.php:153
+msgid "Select Template"
+msgstr "Vyber šablonu"
+
+#: core/admin/custom-layouts.php:21 core/admin/grid-loop.php:21
+#: core/admin/template-editor.php:159 core/admin/unlimited-sidebars.php:236
+msgid "Select Template to Edit"
+msgstr "Vyber šablonu k úpravě"
+
+#: core/admin/custom-layouts.php:32
+msgid "Layout"
+msgstr "Grafické rozvržení"
+
+#. Author URI of the plugin/theme
+msgid "https://www.onedesigns.com/"
+msgstr "https://www.onedesigns.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.onedesigns.com/themes/enlightenment"
+msgstr "https://www.onedesigns.com/themes/enlightenment"
+
+#. Author of the plugin/theme
+msgid "One Designs"
+msgstr "One Designs"
