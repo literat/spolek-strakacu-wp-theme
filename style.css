@@ -1322,6 +1322,7 @@ audio {
 
 .archive-title .prefix {
 	font-weight: 300;
+	display: none;
 }
 
 .archive-description {
@@ -2029,7 +2030,7 @@ footer.entry-meta {
 .comments-title,
 #reply-title,
 .widget-title {
-	margin: 0 0 20px;
+	margin: 0;
 }
 
 .commentlist,
@@ -2421,7 +2422,7 @@ footer.entry-meta {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	height: calc( 100vh / 4 + 100% );
+	height: calc( 10vh / 4 + 100% );
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -2718,13 +2719,14 @@ footer.entry-meta {
 	padding-left: 20px;
 	padding-right: 0px;
 	float: right;
-	width: 40%;
+	width: auto;
 }
 
 .page-header .container h1 {
 	display: block;
 	background-color: #ffc73c;
 	padding-right: 20px;
+	padding-left: 20px;
 }
 
 .page-header .container .archive-description {
@@ -2736,7 +2738,7 @@ footer.entry-meta {
 	background-color: #b80023;
 	padding-right: 20px;
 	color: #fff;
-	font-size: 32px;
+	font-size: 26px;
 	font-weight: 300;
 	margin-top: 6px;
 	padding-left: 12px;
@@ -2796,7 +2798,7 @@ header.navbar-inverse {
 .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover,
 .mega-menu > .dropdown-menu > .active > a {
 	background-color: #b80023;
-	color: #ffc73c;
+	color: #fff;
 }
 
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus,
