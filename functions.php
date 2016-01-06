@@ -1064,3 +1064,22 @@ function my_get_posts( $query ) {
 		$query->set( 'post_type', array( 'post', 'chronosly' ) );
 	return $query;
 }
+
+function csp_publicize_fallback_image( $media, $post_id, $args ) {
+    if ( $media ) {
+        return $media;
+    } else {
+        $permalink = get_permalink( $post_id );
+        $upload_dir = wp_upload_dir();
+        $url = apply_filters( 'jetpack_photon_url', $upload_dir['baseurl'] . '/2015/12/cropped-logo-spolku_JEN-SRDCE-300x300.jpg' );
+
+        return array( array(
+            'type'  => 'image',
+            'from'  => 'custom_fallback',
+            'src'   => esc_url( $url ),
+            'href'  => $permalink,
+        ) );
+    }
+}
+add_filter( 'jetpack_images_get_images', 'csp_publicize_fallback_image', 10, 3 );
+
