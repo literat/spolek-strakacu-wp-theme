@@ -50,8 +50,13 @@ function enlightenment_post_thumbnail_wrap( $html, $args = null ) {
 	}
 }
 
+/*
+2016-01-06
+
+removed support for post thumbnail image in header
+
 if( current_theme_supports( 'enlightenment-post-thumbnail-header' ) ) {
-	
+
 	add_filter( 'theme_mod_header_image', 'enlightenment_post_header_image' );
 
 	function enlightenment_post_header_image( $url ) {
@@ -63,6 +68,7 @@ if( current_theme_supports( 'enlightenment-post-thumbnail-header' ) ) {
 	}
 
 }
+*/
 
 add_filter( 'enlightenment_filter_post_thumbnail_attr', 'enlightenment_strip_accidental_attachment_image_attributes' );
 
@@ -70,6 +76,3 @@ function enlightenment_strip_accidental_attachment_image_attributes( $attr ) {
 	unset( $attr["</a></h2>\n"] );
 	return $attr;
 }
-
-
-
