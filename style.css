@@ -2752,25 +2752,25 @@ header.navbar-inverse {
 	background-color: #b80023;
 }
 
-.entry-author, .entry-date, .entry-comments, .entry-edit-link {
+.entry-author, .entry-date, .entry-comments, .entry-edit-link, .entry-category {
 	padding: 6px 10px 6px 10px;
 	margin: 10px 0 10px 0;
 }
 
-.entry-author:hover, .entry-date:hover, .entry-comments:hover, .entry-edit-link:hover {
+.entry-author:hover, .entry-date:hover, .entry-comments:hover, .entry-edit-link:hover, .entry-category:hover {
 	background-color: #b80023;
 	color: #fff;
 }
 
-.entry-author:hover .glyphicon, .entry-date:hover .glyphicon, .entry-comments:hover .glyphicon, .entry-edit-link:hover .glyphicon {
+.entry-author:hover .glyphicon, .entry-date:hover .glyphicon, .entry-comments:hover .glyphicon, .entry-edit-link:hover .glyphicon, .entry-category:hover .glyphicon {
 	color: #ffc73c;
 }
 
-.entry-author a, .entry-date a, .entry-comments a, .entry-edit-link a {
+.entry-author a, .entry-date a, .entry-comments a, .entry-edit-link a, .entry-category a {
 	color: #b80023;
 }
 
-.entry-author:hover a, .entry-date:hover a, .entry-comments:hover a, .entry-edit-link:hover a {
+.entry-author:hover a, .entry-date:hover a, .entry-comments:hover a, .entry-edit-link:hover a, .entry-category:hover a {
 	color: #ffc73c;
 }
 
